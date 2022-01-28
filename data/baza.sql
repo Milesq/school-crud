@@ -1,3 +1,6 @@
+CREATE DATABASE my;
+USE my;
+
 CREATE TABLE `baza` (
   `ID` int(11) NOT NULL PRIMARY KEY AUTO_INCREMENT,
   `Imie` text NOT NULL,
