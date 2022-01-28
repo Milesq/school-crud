@@ -1,0 +1,1 @@
+It's simple crud created in a small team as a school project. It's not a real project. I know about bad practices that are here and I knew about them when I was writing this project. I used here a few nice things, like vue "as a library";
